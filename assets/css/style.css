@@ -17,7 +17,7 @@ header {
 }
 
 body {
-  background-color: rgb(237, 238, 227);
+  background-color: rgb(255, 255, 255);
 }
 
 #city-search {
@@ -33,7 +33,7 @@ body {
 
 .sections {
   margin: 0;
-  padding: 40px;
+  padding: 15px;
 }
 
 #oneDay {
