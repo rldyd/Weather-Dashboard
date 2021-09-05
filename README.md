@@ -4,4 +4,8 @@
 
 # Application Preview
 
+<img width="1423" alt="Screen Shot 2021-09-05 at 4 07 26 AM" src="https://user-images.githubusercontent.com/84109630/132120084-84e256f4-951a-4deb-9d4b-830f251c7890.png">
+
 # Credit
+
+Ben Gallagher: Classmate. I got the most help from him through this project. 
