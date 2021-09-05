@@ -11,13 +11,13 @@ header {
     rgb(57, 100, 218),
     rgb(17, 4, 90)
   );
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 10px;
   font-style: unset;
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(198, 228, 250);
 }
 
 #city-search {
