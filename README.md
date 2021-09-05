@@ -8,4 +8,4 @@
 
 # Credit
 
-* Ben Gallagher: Classmate. I got the most help from him through this project. 
+* Ben Gallagher: Classmate. I got the most help from him through this project. (https://github.com/bgallag5)
